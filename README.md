@@ -82,8 +82,6 @@ CubeStructurer is under the public domain.
 Note: This project is made just by me.
 
 - Herbert Kociemba for creating CubeExplorer: A project that I heavily based this project on.
-- The Microsoft team for creating .NET, C# and Visual Studio (the things I use to make this project).
-
 ---
 
 **I hope you enjoy using this project!**
